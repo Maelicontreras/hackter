@@ -1,0 +1,30 @@
+body {
+  margin: 0%;
+}
+div {
+  heigth: 40px;
+
+  border: 1px black solid;
+  margin:  1em;
+  padding: 1em;
+}
+/* esto es un comentario */
+.yellow-divs {
+  background-color: yellow;
+}
+
+button {
+  margin-top: 1em;
+
+}
+.centrado {
+  text-align: center;
+}
+
+.div-pequeño {
+  background-color: dodgerblue;
+  color: white;
+  width: 300px;
+  margin: 0 auto;
+  
+}
